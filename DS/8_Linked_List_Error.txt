@@ -1,0 +1,2 @@
+첫 자리 들어갈 때 오류 터진다.
+Doubly_Linked_List에서 고침
